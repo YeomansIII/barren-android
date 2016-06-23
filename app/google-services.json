@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "195676646929",
+    "firebase_url": "https://barren-doorbell.firebaseio.com",
+    "project_id": "barren-doorbell",
+    "storage_bucket": "barren-doorbell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195676646929:android:3d63e96265e49a25",
+        "android_client_info": {
+          "package_name": "io.yeomans.barren"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195676646929-t610s78u19tca0vse7g7fkccr4hh8mlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYdx0TB5wlnPtPoE_fpDtbhVAUMZJGh0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
