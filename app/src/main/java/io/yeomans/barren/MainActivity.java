@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     final static String PREF_FCM_ID = "fcm_id";
 
     final static String LOCAL_URL = "http://pc.home.yeomans.space:9024/api/v1/";
-    final static String PROD_URL = "http://yeomans.space:9024/api/v1/";
+    final static String PROD_URL = "http://barren.yeomans.space/api/v1/";
 
     @BindView(R.id.mainDeviceName) TextInputLayout mainDeviceName;
     @BindView(R.id.mainDeviceOwner) TextInputLayout mainDeviceOwner;
